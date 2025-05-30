@@ -29,7 +29,27 @@ Você controla Frodo, um jovem hobbit incumbido de destruir o Um Anel nas profun
 
 🧩 Tutoriais para iniciantes
 
-❤️ Sistema de vidas e checkpoints
+❤️ Sistema de vidas e checkpoints<br>
+
+
+🧱 Estrutura do Código
+O jogo é dividido em múltiplas funções:
+
+tutorial() – modo tutorial com mapa didático
+
+fase1(), fase2(), fase3() – fases progressivas com novos desafios
+
+sala() – área intermediária antes do chefe final
+
+boss() – sistema de batalha mágica em turnos
+
+hist() – narrativa interativa entre as fases
+
+magias() / bmagia() – ataques do jogador e do boss
+
+inventario() – uso estratégico de itens
+
+
 
 
 
