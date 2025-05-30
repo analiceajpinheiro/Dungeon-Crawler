@@ -29,7 +29,7 @@ Você controla Frodo, um jovem hobbit incumbido de destruir o Um Anel nas profun
 
 🧩 Tutoriais para iniciantes
 
-❤️ Sistema de vidas e checkpoints<br>
+❤️ Sistema de vidas e checkpoints<br><br>
 
 
 🧱 Estrutura do Código
