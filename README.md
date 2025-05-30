@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <strong>🚀 Descrição do Repositório 📚</strong>
+  
 </div>
 
 
